@@ -3,6 +3,13 @@
 
 
 <a name="2.0.1"></a>
+## [2.1.0](https://github.com/mljs/kernel-gaussian/compare/v2.0.2...v2.1.0) (2026-06-06)
+
+
+### Features
+
+* migrate to ESM and align with current standards ([1609d54](https://github.com/mljs/kernel-gaussian/commit/1609d54885bf17d517c37cb8a5ab009add699944))
+
 ## [2.0.1](https://github.com/mljs/kernel-gaussian/compare/v2.0.0...v2.0.1) (2016-08-03)
 
 
