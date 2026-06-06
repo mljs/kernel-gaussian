@@ -1,6 +1,6 @@
 {
   "name": "ml-kernel-gaussian",
-  "version": "2.1.0",
+  "version": "3.0.0",
   "description": "The gaussian (radial basis function) kernel",
   "type": "module",
   "exports": {
