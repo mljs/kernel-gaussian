@@ -1,6 +1,6 @@
 import { expect, test } from 'vitest';
 
-import GaussianKernel from '../index.js';
+import { GaussianKernel } from '../index.js';
 
 test('default options', () => {
   const kernel = new GaussianKernel();
